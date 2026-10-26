@@ -1,0 +1,7 @@
+run,epochs,best_epoch,best_val_loss,last_val_loss
+Electricity_long,100,92,0.1877,0.1893
+ETT_h1_long,100,97,0.1702,0.1705
+BeijingAir_long,100,94,0.1334,0.1338
+BeijingAir,35,30,0.1454,0.1467
+ETT_h1,31,26,0.1966,0.1981
+Electricity,40,39,0.2117,0.2154

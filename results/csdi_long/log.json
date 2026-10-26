@@ -1,0 +1,26 @@
+{
+  "ETT_h1": {
+    "train_hours": 0.3040651885006163,
+    "best_val_loss": 0.17019351252487727,
+    "epochs": 100,
+    "milestones": [
+      14100,
+      16920
+    ],
+    "final_lr": 1e-05,
+    "val_sampling_hours": 0.09586109909746382,
+    "test_sampling_hours": 0.0958669513463974
+  },
+  "BeijingAir": {
+    "train_hours": 0.3042437116967307,
+    "best_val_loss": 0.13342714522566115,
+    "epochs": 100,
+    "milestones": [
+      14100,
+      16920
+    ],
+    "final_lr": 1e-05,
+    "val_sampling_hours": 0.09560009360313415,
+    "test_sampling_hours": 0.09555287063121795
+  }
+}

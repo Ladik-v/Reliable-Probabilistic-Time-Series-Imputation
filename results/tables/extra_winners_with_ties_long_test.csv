@@ -1,0 +1,13 @@
+dataset,pattern,hidden,best_pinball,tied_with_best
+ETT_h1,point,24,csdi_long,-
+ETT_h1,block,24,chronos_blend,csdi_long
+ETT_h1,point,128,csdi_long,-
+ETT_h1,block,128,csdi_long,chronos_blend
+Electricity,point,24,csdi_long,-
+Electricity,block,24,csdi_long,"csdi,chronos_blend"
+Electricity,point,128,csdi_long,-
+Electricity,block,128,csdi_long,chronos_blend
+BeijingAir,point,24,csdi_long,-
+BeijingAir,block,24,csdi_long,"kalman,chronos_blend"
+BeijingAir,point,128,csdi_long,-
+BeijingAir,block,128,csdi_long,-

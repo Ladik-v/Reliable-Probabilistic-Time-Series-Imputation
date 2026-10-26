@@ -1,0 +1,13 @@
+base: main.yaml
+csdi:
+  device: cuda
+  sample_batch_size: 400
+csdi_long:
+  datasets: [Electricity]
+  epochs: 100
+  patience: 100
+  lr: 0.001
+  weight_decay: 0.000001
+  milestones: [0.75, 0.9]
+  gamma: 0.1
+  seed: 0

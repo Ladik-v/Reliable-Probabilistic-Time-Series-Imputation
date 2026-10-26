@@ -1,0 +1,14 @@
+{
+  "Electricity": {
+    "train_hours": 0.30430015888479023,
+    "best_val_loss": 0.18770667059080942,
+    "epochs": 100,
+    "milestones": [
+      14100,
+      16920
+    ],
+    "final_lr": 1e-05,
+    "val_sampling_hours": 0.0958695881234275,
+    "test_sampling_hours": 0.09582588666015202
+  }
+}

@@ -1,0 +1,13 @@
+dataset,pattern,hidden,best_MAE,best_pinball,best_CRPS_orig,best_CRPS_q21
+ETT_h1,point,24,kalman,chronos_blend,chronos_blend,chronos_blend
+ETT_h1,block,24,chronos_blend,chronos_blend,chronos_blend,chronos_blend
+ETT_h1,point,128,chronos_blend,chronos_blend,chronos_blend,chronos_blend
+ETT_h1,block,128,chronos_blend,chronos_blend,chronos_blend,chronos_blend
+Electricity,point,24,csdi,csdi,csdi,csdi
+Electricity,block,24,chronos_blend,chronos_blend,chronos_blend,chronos_blend
+Electricity,point,128,csdi,csdi,csdi,csdi
+Electricity,block,128,csdi,csdi,csdi,csdi
+BeijingAir,point,24,kalman,csdi,csdi,csdi
+BeijingAir,block,24,chronos_blend,chronos_blend,chronos_blend,chronos_blend
+BeijingAir,point,128,kalman,csdi,csdi,csdi
+BeijingAir,block,128,chronos_blend,chronos_blend,chronos_blend,chronos_blend
